@@ -3,15 +3,17 @@
 Let's create an author card that can appear under a blog post for example.
 
 Must have:
-* [] the author image is a circle
-* [] the author image is aligned to the top of the card content
-* [] the follow button is aligned with the author name
+
+- [x] the author image is a circle
+- [x] the author image is aligned to the top of the card content
+- [x] the follow button is aligned with the author name
 
 Extra:
-* [] written by label is in lighter gray and all caps
-* [] author name is noticeably bigger
-* [] card has space on top an bottom
-* [] the card has a separating line on top
+
+- [x] written by label is in lighter gray and all caps
+- [x] author name is noticeably bigger
+- [x] card has space on top and bottom
+- [x] the card has a separating line on top
 
 Take a look at the example image:
 
@@ -19,5 +21,5 @@ Take a look at the example image:
 
 Extra extra:
 
-* [] add the card in the context of a simple article page
-* [] use proper class names
+- [x] add the card in the context of a simple article page
+- [x] use proper class names
