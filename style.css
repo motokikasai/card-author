@@ -21,6 +21,7 @@ section {
   display: flex;
   background: var(--primary-color);
   border-radius: 6px;
+  box-shadow: 0 0 20px rgba(104, 104, 104, 0.5);
 }
 
 aside {
@@ -103,6 +104,12 @@ section.card {
     display: flex;
     justify-content: center;
   }
+  .name-button {
+    justify-content: center;
+  }
+  .button {
+    margin: 0 20px;
+  }
 }
 
 @media (max-width: 628px) {
@@ -115,5 +122,6 @@ section.card {
 
   h1 {
     padding-bottom: 20px;
+    font-size: 2rem;
   }
 }
