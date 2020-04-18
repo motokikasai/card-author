@@ -1,4 +1,4 @@
-# Author bio card
+# Author Profile Card
 
 ![author card](/screenshot.png)
 
